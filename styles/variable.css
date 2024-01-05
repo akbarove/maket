@@ -5,9 +5,13 @@
   --main-bg-color: #19191b;
   --main-color: #cbc8c8;
   --secondary-color: #5454d4;
+  --dot-black: black;
   --white-color: #fff;
 
   --main-spacing: -0.66px;
 
   --main-size: 20px;
+  --section-title-size: 60px;
+  --services-title-size: 28px;
+  --nav-size: 18px;
 }
